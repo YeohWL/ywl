@@ -15,6 +15,8 @@ public class Student {
     int SQAT;
     int SEAM;
     int FM;
+    int FMs;
+    int FMw;
    
     double getAverageMark()
     {
